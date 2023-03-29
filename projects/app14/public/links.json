@@ -1,0 +1,32 @@
+{
+    "item1": {
+        "image": "./assets/item1.jpeg",
+        "price": "All Earthly Possestions",
+        "name": "Hampter"
+    },
+    "item2": {
+        "image": "./assets/item2.jpg",
+        "price": "$3.99",
+        "name": "Okay Boomer Card"
+    },
+    "item3": {
+        "image": "./assets/item3.png",
+        "price": "$20.99",
+        "name": "Success Kid Poster"
+    },
+    "item4": {
+        "image": "./assets/item4.jpg",
+        "price": "$24.99",
+        "name": "Mario Poster"
+    },
+    "item5": {
+        "image": "./assets/item5.png",
+        "price": "$24.99",
+        "name": "Markiplier E Poster"
+    },
+    "item6": {
+        "image": "./assets/item6.jpg",
+        "price": "$24.99",
+        "name": "Lord of the Rings Yeet Poster"
+    }
+}
